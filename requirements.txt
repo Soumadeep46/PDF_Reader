@@ -5,3 +5,4 @@ langchain
 faiss-cpu
 numpy
 sentence-transformers
+langchain-community
